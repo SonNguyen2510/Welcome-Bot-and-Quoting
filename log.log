@@ -1,0 +1,22 @@
+nohup: ignoring input
+[2023-09-05 12:25:12] [INFO    ] discord.client: logging in using static token
+[2023-09-05 12:25:14] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 05754956b69e3236b87bb2f5d4319910).
+[2023-09-05 12:25:18] [INFO    ] discord.voice_client: Connecting to voice...
+[2023-09-05 12:25:18] [INFO    ] discord.voice_client: Starting voice handshake... (connection attempt 1)
+[2023-09-05 12:25:19] [INFO    ] discord.voice_client: Voice handshake complete. Endpoint found south-korea1060.discord.media
+[2023-09-05 12:25:21] [INFO    ] discord.player: ffmpeg process 34995 successfully terminated with return code of 0.
+[2023-09-05 12:25:21] [INFO    ] discord.voice_client: The voice handshake is being terminated for Channel ID 897700163647324200 (Guild ID 543054573951123466)
+[2023-09-05 12:25:21] [INFO    ] discord.voice_client: Disconnecting from voice normally, close code 1000.
+[2023-09-05 12:29:18] [INFO    ] discord.voice_client: Connecting to voice...
+[2023-09-05 12:29:18] [INFO    ] discord.voice_client: Starting voice handshake... (connection attempt 1)
+[2023-09-05 12:29:19] [INFO    ] discord.voice_client: Voice handshake complete. Endpoint found south-korea1076.discord.media
+[2023-09-05 12:29:21] [INFO    ] discord.player: ffmpeg process 35826 successfully terminated with return code of 0.
+[2023-09-05 12:29:21] [INFO    ] discord.voice_client: The voice handshake is being terminated for Channel ID 897700163647324200 (Guild ID 543054573951123466)
+[2023-09-05 12:29:21] [INFO    ] discord.voice_client: Disconnecting from voice normally, close code 1000.
+[2023-09-05 13:30:51] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 05754956b69e3236b87bb2f5d4319910.
+[2023-09-05 13:36:59] [INFO    ] discord.voice_client: Connecting to voice...
+[2023-09-05 13:36:59] [INFO    ] discord.voice_client: Starting voice handshake... (connection attempt 1)
+[2023-09-05 13:37:00] [INFO    ] discord.voice_client: Voice handshake complete. Endpoint found south-korea1104.discord.media
+[2023-09-05 13:37:02] [INFO    ] discord.player: ffmpeg process 37725 successfully terminated with return code of 0.
+[2023-09-05 13:37:02] [INFO    ] discord.voice_client: The voice handshake is being terminated for Channel ID 897700163647324200 (Guild ID 543054573951123466)
+[2023-09-05 13:37:02] [INFO    ] discord.voice_client: Disconnecting from voice normally, close code 1000.

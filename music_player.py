@@ -25,7 +25,7 @@ ytdl_format_options = {
 ffmpeg_options = {
     'options': '-vn'
 }
-API_KEY = "AIzaSyABR_cYe0NJlXrC4zeTF0XzovEWkeZY0lA"
+API_KEY = "Your api key"
 credential_path = "/home/sonnguyen/WORK/study/assign2/Discord_bot/credentials.json"
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credential_path
 
@@ -207,7 +207,7 @@ async def on_ready():
     """Print a message when the bot is ready"""
     print(f'Logged in as {bot.user.name} ({bot.user.id})')
 
-TOKEN = "MTA5MTI2OTEwMTA4ODk0NDE5OQ.G3D_6z.VoKUl1Uy6rCI-ppU5KWEReFaJxvTt2V3Y_KMyo"
+TOKEN = "Your token here"
 
 # start the event loop in the main thread
 bot.run(TOKEN)
